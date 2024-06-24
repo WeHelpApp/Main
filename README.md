@@ -2,9 +2,9 @@
 Central hub for project documentation and coordination.
 
 **Frontend:**  
-React.js: Responsive and dynamic user interface
-HTML5 & CSS3: Structuring and styling web pages
-Redux: State management
+React.js: Responsive and dynamic user interface  
+HTML5 & CSS3: Structuring and styling web pages  
+Redux: State management  
 Axios: For making HTTP requests made to backend
 
 **Backend**  
